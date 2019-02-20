@@ -4,6 +4,6 @@
 
 ## To test run 
 
-- copy all fivaa.js
+- copy all ShoppingCart.js
 - paste into google chrome console
 - press enter
