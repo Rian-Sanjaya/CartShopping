@@ -1,5 +1,7 @@
 class Cart {
-    cart = {};
+    constructor() {
+        this.cart = {};
+    }
 
     tambahProduk(kodeProduk, kuantitas) {
         if (kodeProduk && kuantitas) {
